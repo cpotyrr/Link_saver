@@ -1,8 +1,6 @@
 
 # **Links register app**
 
-> :alembic: This application is a POC of my abilities and skills
-
 
 ## :construction: Install
 
