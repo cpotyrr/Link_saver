@@ -48,7 +48,7 @@ python manage.py test
 
 ## :bust_in_silhouette: Authors
 
-* [Aminov Emil](https://github.com/AminovE99)
+* [Cpotyr](https://github.com/cpotyrr)
 
 
 ## :zap: Possible Enhancement
