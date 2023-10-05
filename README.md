@@ -33,25 +33,3 @@ python manage.py runserver
 python manage.py test
 ```
 
-<!--
-[TODO] If project is deployed to DockerHub:
-
-## :whale: Supported tags
-
-[Dockerhub monogramm/__app_slug__](https://hub.docker.com/r/monogramm/__app_slug__/)
-
-* `latest`
-
--->
-
-## :bust_in_silhouette: Authors
-
-* [Cpotyr](https://github.com/cpotyrr)
-
-
-## :zap: Possible Enhancement
-* :whale: Create docker-compose for app
-
-## :page_facing_up: License
-
-This project is [AGPL v3](uri_license) licensed.
